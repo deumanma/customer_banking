@@ -10,7 +10,7 @@ cd_account.py - imports the data from account and defined the create cd account 
 
 savings_account.py - imports account from account and defines the function for creating the savings acount. and calculates the interest based on balance, interest rates, and months in the account. 
 
-customer banking imports from savings_count and cd_account for their respective creation functions. Then it ass the user to input the following for their savings acount: balance, interest, and maturity of account. Then will print out their new balance accounting for interest earned. Then it asks for the same inputs below but for their CD account information and prints the updated balance for the cd account factoring in interest earned.  
+**customer_banking.py** Use this file for customer inputs and to run the code. imports from savings_count and cd_account for their respective creation functions. Then it ass the user to input the following for their savings acount: balance, interest, and maturity of account. Then will print out their new balance accounting for interest earned. Then it asks for the same inputs below but for their CD account information and prints the updated balance for the cd account factoring in interest earned.  
 
 This assignment I did a much better job of writing more useful comments for myself to come back to and documenting where I received help for troubleshooting my code. I did use the class banking solutions file as a reference point when I was getting started and indicated on the file and line if I used outside troubleshooting tools like ChatGPT. I also left some of my old code to see how it evolved over time if I was struggling over a certain part. 
 
